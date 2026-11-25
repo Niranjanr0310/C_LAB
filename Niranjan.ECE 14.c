@@ -31,13 +31,3 @@ int main()
     return 0;
 }
 
-OUTPUT
-Enter the number of elements: 5
-Enter 5 elements:
-25
-10
-45
-30
-20
-
-Largest element = 45
